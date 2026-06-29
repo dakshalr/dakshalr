@@ -1,7 +1,6 @@
 # Hey there! 👋
 
-I'm Daksh
-A Web Developer and UI/UX Designer passionate about creating simple, functional, and user-friendly experiences.
+I'm A Web Developer and UI/UX Designer passionate about creating simple, functional, and user-friendly experiences.
 
 ### 🚀 Currently
 - Building web applications
@@ -11,8 +10,5 @@ A Web Developer and UI/UX Designer passionate about creating simple, functional,
 ### 🛠️ Tools
 React • JavaScript • Tailwind CSS • Figma • Git • VS Code
 
-### 📫 Reach Me
-GitHub: @dakshalr  
-Email: dakshongit@gmail.com
 
 > Recently graduated. Still learning. Always creating.
